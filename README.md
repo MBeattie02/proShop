@@ -24,7 +24,7 @@
 Sample User Logins
 
 admin@example.com (Admin)
-123456
+123456,10
 
 john@example.com (Customer)
 123456
